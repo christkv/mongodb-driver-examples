@@ -1,0 +1,20 @@
+{
+  "name": "mongodb-driver-examples",
+  "version": "0.0.1",
+  "description": "Examples for node MongoDB driver",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christkv/mongodb-driver-examples.git"
+  },
+  "dependencies": {
+    "mongodb": "1.1.0"
+  },
+  "keywords": [
+    "mongodb",
+    "driver",
+    "examples"
+  ],
+  "author": "Christian Kvalheim",
+  "license": "Apache"
+}
